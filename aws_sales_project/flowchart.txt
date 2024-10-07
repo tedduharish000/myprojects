@@ -1,0 +1,25 @@
+awsglue project1
+
+create IAM ROLE
+create bucket in s3
+created a folder 'orders' inside s3
+
+go to glue create crawler
+
+partition of excel file data into two csv files
+one is orders1 - 7/1 data
+second file is orders2 - 7/4 data
+
+create crawler in glue
+succesfully created crawler
+
+go athena for query results
+
+again i created a orders csv file and uploaed in orders as
+7/5
+
+run crawler
+
+query the results 
+
+Project Done
